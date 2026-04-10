@@ -1,0 +1,30 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+.itemCarrusel{
+    border: 1px solid black;
+height: 200px;
+position: relative;
+
+}
+
+.TarjetaCarrusel{
+background-color: gray;
+height: 100%;
+
+}
+.Flechascarrusel{
+    background-color: silver;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
