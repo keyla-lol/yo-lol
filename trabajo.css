@@ -1,0 +1,8 @@
+.slider {
+    display: flex;
+    overflow-x: auto;
+}
+
+.contenedor {
+    display: flex;
+}
